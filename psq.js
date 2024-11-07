@@ -1,7 +1,8 @@
 //Beginner Friendly Questions
 //js
+
 //1.print hello world
-console.log("hello world!");
+console.log("hello there!");
 
 
 //2.add two numbers using function
